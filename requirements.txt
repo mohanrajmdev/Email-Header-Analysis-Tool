@@ -1,0 +1,8 @@
+requests
+colorama
+email
+tqdm
+datetime
+regex
+time
+prettytable
