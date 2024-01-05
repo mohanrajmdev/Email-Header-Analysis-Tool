@@ -6,7 +6,7 @@ from time import sleep
 from datetime import datetime
 from prettytable import *
 
-vt_access_token = '8b6fa26d7c9e48fd89918bdaf3fec33260a807c5dadc8a67ad201805f0c4aa35'
+vt_access_token = '<Your VirusTotal Api Key>'
 
 # Extract links from the email
 def extract_url(file_path):
