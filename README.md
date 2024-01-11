@@ -1,4 +1,6 @@
 # Email-Header-Analysis-Tool
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mohanrajmdev_Email-Header-Analysis-Tool)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_Email-Header-Analysis-Tool)
+
 ![Tool image](email-tool.png)
 This tool help to find email header hop list . Also help to spf and DKIM signature verification. You can check all mail is legitimate or not By the Score. Analyzing email headers can provide valuable information for identifying potentially malicious domains and urls.
 
