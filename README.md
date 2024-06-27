@@ -6,6 +6,12 @@ This tool help to find email header hop list . Also help to spf and DKIM signatu
 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=mohanrajmdev_Email-Header-Analysis-Tool)
 
+## Phishing Detection Algorithm
+
+![image](https://github.com/mohanrajmdev/Email-Header-Analysis-Tool/assets/97905847/f1c01e87-3a21-4e10-85a7-f208b47bbe67)
+![image](https://github.com/mohanrajmdev/Email-Header-Analysis-Tool/assets/97905847/e2913846-ba2a-4b97-9e78-4b8010fccaf3)
+![image](https://github.com/mohanrajmdev/Email-Header-Analysis-Tool/assets/97905847/a339f313-e362-474f-85fc-344a33e64c0d)
+
 # Installation
 
 ## 1. Clone the repository using the following command: 
